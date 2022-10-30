@@ -37,24 +37,24 @@ display it in a table.
 
 4.1 Firebase Interface(created project with name of Algomox test)
 <br>
-<img src="images/7.png" width="500">
+<img src="images/7.png" width="600">
 <br>
 4.2 Creating a Realtime Database with read and write operation
 <br>
-<img src="images/8.png" width="500">
+<img src="images/8.png" width="600">
 
 4.3 it will Genatarte unique key for each submission
 <br>
-<img src="images/9.png" width="500">
+<img src="images/9.png" width="250">
 <br>
 
 4.4 And the Data will Store like this in Json
 <br>
-<img src="images/10.png" width="500">
+<img src="images/10.png" width="250">
 
 4.5 We can also export this data in json file
 <br>
-<img src="images/11.png" width="500">
+<img src="images/11.png" width="600">
 
 5. Created a beautified UI for the user using React and added delete row functionality
 <img src="images/13.png" width="800">
@@ -70,15 +70,15 @@ display it in a table.
 
 7.1 First Name is Tarun S
 <br>
-<img src="images/14.png" width="600">
+<img src="images/14.png" width="650">
 <br>
 7.2 Removed S from json manually
 <br>
-<img src="images/15.png" width="500">
+<img src="images/15.png" width="300">
 <br>
 7.3 manually removed char "S" is Updated on UI(S is removed)
 <br>
-<img src="images/16.png" width="600">
+<img src="images/16.png" width="650">
 <br>
 
 
