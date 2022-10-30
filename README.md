@@ -10,4 +10,4 @@ display it in a table.
 ## Getting Started
 
 First I Created a UI in html/css to accept user data from a form.
-![](github/01.png)
+![](images/01.png)
