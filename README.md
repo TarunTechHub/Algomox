@@ -64,6 +64,7 @@ display it in a table.
 <img src="images/19.png" width="500">
 <br>
 6. Table column Sl No.(auto-generated).
+<br>
 <img src="images/17.png" width="200">
 <br>
 7. Adding a row in the json file manually and it will auto-updated in UI within a sec without pressing the load button.
