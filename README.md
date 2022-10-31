@@ -34,7 +34,7 @@ display it in a table.
 <br>
 
 4.After Posting this data to Server using a Post API here Im using Firebase and react js. This API should accept user data and append it to a file (contactform.json).
-
+<br>
 4.1 Firebase Interface(created project with name of Algomox test)
 <br>
 <img src="images/7.png" width="600">
@@ -42,7 +42,7 @@ display it in a table.
 4.2 Creating a Realtime Database with read and write operation
 <br>
 <img src="images/8.png" width="600">
-
+<br>
 4.3 it will Genatarte unique key for each submission
 <br>
 <img src="images/9.png" width="250">
@@ -51,11 +51,11 @@ display it in a table.
 4.4 And the Data will Store like this in Json
 <br>
 <img src="images/10.png" width="250">
-
+<br>
 4.5 We can also export this data in json file
 <br>
 <img src="images/11.png" width="600">
-
+<br>
 5. Created a beautified UI for the user using React and added delete row functionality
 <img src="images/13.png" width="800">
 <br>
@@ -65,9 +65,9 @@ display it in a table.
 <br>
 6. Table column Sl No.(auto-generated).
 <img src="images/17.png" width="200">
-
+<br>
 7. Adding a row in the json file manually and it will auto-updated in UI within a sec without pressing the load button.
-
+<br>
 7.1 First Name is Tarun S
 <br>
 <img src="images/14.png" width="650">
