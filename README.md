@@ -29,6 +29,7 @@ display it in a table.
 <br>
 
 3. Form Filling and Submit Button
+<br>
 <img src="images/02.png" width="500">
 <br>
 <br>
